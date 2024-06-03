@@ -38,4 +38,4 @@ This shell script automates the setup of a remote desktop environment on a Debia
 
 
 
-*By DARK LUSIFER
+## By DARK LUSIFER
