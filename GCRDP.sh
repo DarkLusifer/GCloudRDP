@@ -19,7 +19,7 @@ sudo systemctl disable lightdm.service
 
 # Output a message indicating the script has finished
 echo "Setup complete. You can now use Chrome Remote Desktop with XFCE desktop environment."
-echo "Go to this url and get debine ssh script https://remotedesktop.google.com/headless and send it here."
+echo "Go to this url and get Debian ssh script https://remotedesktop.google.com/headless and send it here."
 echo "Script by DARK LUSIFER"
 
 #by @about_darklusifer
